@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_temp_unit_entries">
+        <item>@string/pref_temp_unit_metric_readable</item>
+        <item>@string/pref_temp_unit_imperial_readable</item>
+    </array>
+    <array name="pref_temp_unit_values">
+        <item>@string/pref_temp_unit_metric</item>
+        <item>@string/pref_temp_unit_imperial</item>
+    </array>
+</resources>
